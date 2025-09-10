@@ -20,4 +20,4 @@ O projeto é estruturado com scripts "executáveis" (run_*.py), onde cada um rod
 ### Para executar com o classificador final XGBoost:
 ```python ./classificadores/run_xgb.py``` 
 
->> O arquivo main.py é um script de exemplo que por padrão executa o experimento com o GaussianNB, funcionando de forma similar ao run_gaussiannb.py.
+> O arquivo main.py é um script de exemplo que por padrão executa o experimento com o GaussianNB, funcionando de forma similar ao run_gaussiannb.py.
